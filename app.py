@@ -15,10 +15,10 @@ def index():
     data['positive'] = positive
     data['negative'] = negative
 
-    logging.info('========== Open home page ============')
+    # logging.info('========== Open home page ============')
 
     return render_template('index.html', data=data)
 
 
-if __name__ == "__main__":
-    app.run()
+if __name__ == '__main__':
+    app.run(debug=True)
