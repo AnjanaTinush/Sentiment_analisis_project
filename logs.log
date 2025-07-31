@@ -1,0 +1,16 @@
+2025-07-31 09:35:25,439 - WARNING -  * Debugger is active!
+2025-07-31 09:35:25,444 - INFO -  * Debugger PIN: 114-394-584
+2025-07-31 09:35:28,186 - INFO - ========== Open home page ============
+2025-07-31 09:35:28,189 - INFO - 127.0.0.1 - - [31/Jul/2025 09:35:28] "GET / HTTP/1.1" 200 -
+2025-07-31 09:35:28,301 - INFO - 127.0.0.1 - - [31/Jul/2025 09:35:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-07-31 09:35:28,303 - INFO - 127.0.0.1 - - [31/Jul/2025 09:35:28] "[36mGET /static/products/prod1.jpg HTTP/1.1[0m" 304 -
+2025-07-31 09:35:37,418 - INFO - Text : great product
+2025-07-31 09:35:37,419 - INFO - Preprocessed Text : 0    great product
+Name: tweet, dtype: object
+2025-07-31 09:35:37,420 - INFO - Vectorized Text : [[0. 0. 0. ... 0. 0. 0.]]
+2025-07-31 09:35:37,420 - INFO - Prediction : negative
+2025-07-31 09:35:37,421 - INFO - 127.0.0.1 - - [31/Jul/2025 09:35:37] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-31 09:35:37,424 - INFO - ========== Open home page ============
+2025-07-31 09:35:37,424 - INFO - 127.0.0.1 - - [31/Jul/2025 09:35:37] "GET / HTTP/1.1" 200 -
+2025-07-31 09:35:37,434 - INFO - 127.0.0.1 - - [31/Jul/2025 09:35:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-07-31 09:35:37,435 - INFO - 127.0.0.1 - - [31/Jul/2025 09:35:37] "[36mGET /static/products/prod1.jpg HTTP/1.1[0m" 304 -
